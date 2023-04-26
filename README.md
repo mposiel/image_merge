@@ -12,7 +12,8 @@ The program will merge the subimages into the destination image and save the res
 
 The program will display a message indicating whether the file was saved successfully.
 
-
+## Limitations
+This program can only work with PNM files. 
 
 
 
