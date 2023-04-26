@@ -16,6 +16,6 @@ The program will display a message indicating whether the file was saved success
 This program can only work with PNM files. 
 
 
-
+### Thre are sample images converted to jpg in img folder.
 
 
